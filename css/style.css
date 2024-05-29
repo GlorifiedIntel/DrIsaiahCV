@@ -216,3 +216,17 @@
 .testimonial-carousel .owl-dot.active {
   background: var(--primary);
 }
+
+.gyunri {
+  text-align: justify;
+}
+
+.lio {
+  border: 1px solid orange;
+  border-radius: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #000;
+}
